@@ -1,0 +1,40 @@
+.tanim1 {
+    width: 15%;
+    height: 50%;
+    background-color: red;
+    display: block;
+    margin: auto; 
+    border:blueviolet solid 2px;
+      padding: 41px 51px 41px 45px; }
+
+      .tanim2 {
+        width: 15%;
+        height: 183px;
+        background-color: green;
+        display: block;
+        margin: auto;
+        border: red solid 2px;
+        margin-right: 30px;
+        margin-top: -282px;
+        padding: 35px 41px 37px 46px;
+    }
+
+    .tanim3 {
+      width: 12%;
+      height: 124px;
+      background-color: blue;
+      display: block;
+      margin: auto;
+      border: red solid 2px;
+      margin-right: 1253px;
+      margin-top: -276px;
+      padding: 75px 75px 61px 75px;
+  }
+
+      .myname {
+        color: brown;
+        text-align: center;
+        border: black solid 2px;
+        width: 43%;
+        background-color: skyblue;
+    }
